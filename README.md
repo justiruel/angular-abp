@@ -21,9 +21,11 @@ Langkah kedua ini hanya diperlukan saat ada service baru ditambahkan, jika hanya
 ### 5. yarn start
 ### 6. Error "abp is not defined"
 solusinya :
+```
 - npm install --save abp-ng2-module
 - npm install --save abp-web-resources
-<br/>atau coba saat menjalankan no. 1 (yarn install), cmd run as administrator
+```
+atau coba saat menjalankan no. 1 (yarn install), cmd run as administrator
 
 ## Info
 ### mengatur menu yang tampil
