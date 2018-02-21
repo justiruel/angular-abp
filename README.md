@@ -23,7 +23,7 @@ Langkah kedua ini hanya diperlukan saat ada service baru ditambahkan, jika hanya
 solusinya :
 - npm install --save abp-ng2-module
 - npm install --save abp-web-resources
-atau coba saat menjalankan no. 1 (yarn install), cmd run as administrator
+<br/>atau coba saat menjalankan no. 1 (yarn install), cmd run as administrator
 
 ## Info
 ### mengatur menu yang tampil
